@@ -45,7 +45,8 @@ plt.title('Original Grayscale Image')
 plt.axis('off')
 ```
 ## Output:
-<img width="350" height="520" alt="Screenshot 2025-09-06 083603" src="https://github.com/user-attachments/assets/81bd5c6e-4e27-407e-9916-5752b5b6dd02" />
+<img width="404" height="525" alt="image" src="https://github.com/user-attachments/assets/d4e8be0c-ad5d-4a1d-8dde-21cb6446ad90" />
+
 
 
 ### Histogram of Grayscale Image
@@ -56,7 +57,8 @@ plt.title('Original Histogram')
 plt.xlim([0, 256])
 ```
 ## Output:
-<img width="743" height="586" alt="Screenshot 2025-09-06 083613" src="https://github.com/user-attachments/assets/4bb7b97f-16c9-41de-ad15-ede23090d29f" />
+<img width="792" height="584" alt="image" src="https://github.com/user-attachments/assets/2a9fbf2b-5d02-4ec8-b52c-4802072842de" />
+
 
 
 ### Histogram Equalization of Grayscale Image.
@@ -69,7 +71,7 @@ plt.axis('off')
 ```
 ## Output:
 
-<img width="374" height="519" alt="Screenshot 2025-09-06 083620" src="https://github.com/user-attachments/assets/d521c8f2-765d-4034-abe2-e761b6f702b7" />
+<img width="422" height="515" alt="image" src="https://github.com/user-attachments/assets/d5c8fdf6-3e84-4f57-be10-f88899d17f68" />
 
 ## Equalized Histogram
 ```
@@ -79,7 +81,8 @@ plt.title('Equalized Histogram')
 plt.xlim([0, 256])
 ```
 ## Output:
-<img width="753" height="546" alt="Screenshot 2025-09-06 083628" src="https://github.com/user-attachments/assets/b7350ece-0cd7-45be-989f-0e3653677158" />
+<img width="824" height="570" alt="image" src="https://github.com/user-attachments/assets/ad5fe670-d1e2-4466-bd80-3719a95c4ec8" />
+
 
 ## Result: 
 Thus the histogram for finding the frequency of pixels in an image with pixel values ranging from 0 to 255 is obtained. Also,histogram equalization is done for the gray scale image using OpenCV.
